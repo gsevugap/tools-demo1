@@ -3,4 +3,4 @@
 //     query text and running the command:
 //     SFDX: Execute SOQL Query with Currently Selected Text
 
-SELECT id, fname from Account
+SELECT  id, FirstName, LastName FROM Contact
